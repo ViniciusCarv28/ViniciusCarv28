@@ -1,4 +1,6 @@
 ## Hi there 👋
+Me chamo Vinicius Carvalho,Estudante de Engenharia de computação e graduado em Administração de Empresas.
+Estou iniciando na Área de programação #DEV
 Sou estudante na Área de programação estou iniciando e criando novos projetos com:
 <br>
 <br>
@@ -10,6 +12,9 @@ Sou estudante na Área de programação estou iniciando e criando novos projetos
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCarv28)](https://github.com/ViniciusCarv28/github-readme-stats)
 [![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusCarv28)](https://github.com/ViniciusCArv28/github-readme-stats)
 
+## My Linkdin 👋
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkdin"/>
+<a> https://www.linkedin.com/in/vinicius-carvalho-cruz-de-macedo-0061941a7/?trk=li_LOL_DA_global_careers_jobsgtm_otwGeneral_res_Sep2023_dav1</a>
 
 
 
