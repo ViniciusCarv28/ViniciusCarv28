@@ -15,7 +15,7 @@ Sou estudante na Área de programação estou iniciando e criando novos projetos
 
 ## My Linkdin 👋
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkdin"/>
-<a> https://www.linkedin.com/in/vinicius-carvalho-cruz-de-macedo-0061941a7 </a>
+<a>https://www.linkedin.com/in/vinicius-carvalho-cruz-de-macedo-0061941a7</a>
 
 
 
