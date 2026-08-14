@@ -1,4 +1,4 @@
-## Bem vindo ao meu GIT-HUB - Vinicius Carvalho
+## Bem vindo ao meu GITHUB - Vinicius Carvalho
 
 Me chamo Vinicius Carvalho,Estudante de Engenharia de computação e graduado em Administração de Empresas.
 Estou iniciando na Área de programação #DEV
